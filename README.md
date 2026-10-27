@@ -20,9 +20,16 @@ digit wheel:<img width="390" height="323" alt="image" src="https://github.com/us
 
 
 # Bill of Materials
-- all 3D printed parts
-- 6mm od 200mm length axle  x2
-- 45mm compression spring  x1
-- 30mm extension spring  x1
-- 20mm compression spring  x1
+
+
+| Part | Quantity |
+| :--- | :---: |
+| case 3d print | 1 |
+| ratchet 3d print | 1 |
+| digit wheel 3d print | 3 |
+| pawl 3d print | 2 |
+| lever 3d print | 1 |
+| carrier gear 3d print | 2 |
+| springs | 3 |
+| 6mm od 200mm length axle | 2 |
 
