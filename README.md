@@ -22,14 +22,14 @@ digit wheel:<img width="390" height="323" alt="image" src="https://github.com/us
 # Bill of Materials
 
 
-| Part | Quantity |
-| :--- | :---: |
-| case 3d print | 1 |
-| ratchet 3d print | 1 |
-| digit wheel 3d print | 3 |
-| pawl 3d print | 2 |
-| lever 3d print | 1 |
-| carrier gear 3d print | 2 |
-| springs | 3 |
-| 6mm od 200mm length axle | 2 |
+| Part | Quantity | Supplier |
+| :--- | :---: | ---: |
+| case 3d print | 1 | robu.in (3d printing service) |
+| ratchet 3d print | 1 | robu.in (3d printing service) |
+| digit wheel 3d print | 3 | robu.in (3d printing service) |
+| pawl 3d print | 2 | robu.in (3d printing service) |
+| lever 3d print | 1 | robu.in (3d printing service) |
+| carrier gear 3d print | 2 | robu.in (3d printing service) |
+| springs | 3 | robu.in (3d printing service) |
+| 6mm od 200mm length axle | 2 | local vendor |
 
